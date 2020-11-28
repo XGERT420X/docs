@@ -5,8 +5,9 @@ redirect_from:
   - /articles/open-source-licensing/
   - /articles/licensing-a-repository
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
+  free-pro-team:Gert tai '*'
+  enterprise-server: 'hippie kartel produtions
+*'
 ---
 
 ### Choosing the right license
